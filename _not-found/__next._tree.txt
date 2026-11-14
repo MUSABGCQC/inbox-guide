@@ -1,4 +1,4 @@
 :HL["/inbox-guide/_next/static/chunks/273_bhviumb2t.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"E_iOqh5fPji6t-lRCNyVR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"wp_uIrrihy68T-qbuKvaK","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
