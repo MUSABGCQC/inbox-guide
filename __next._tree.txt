@@ -1,3 +1,3 @@
 :HL["/inbox-guide/_next/static/chunks/36e7m1fn7kvu0.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"ZNlYGP-os5TCMFbSon0Uj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"tDWSfMlwafTPpF_BjUQAb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
